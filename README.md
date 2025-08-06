@@ -97,10 +97,10 @@ Uses Plotly.js to visualize algebraic and trigonometric functions. Supports mult
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/neural-calc-express
+git clone https://github.com/your-username/neural-calc-express](https://github.com/m-umer-mustafa/advanced-calculator
 
 # Navigate into the project
-cd neural-calc-express
+cd advanced-calculator
 
 # Install dependencies
 npm install
@@ -213,4 +213,5 @@ If you encounter issues or have feature requests, open a GitHub issue or contact
 **Last Updated**: August 2025
 **Version**: 1.1.0
 **Status**: Actively Developed 🚧
+
 
