@@ -31,25 +31,24 @@
 - **Package Manager**: npm (or bun)
 
 ### Project Structure
-```
 
 advanced-calculator/
--├── src/
--│   ├── components/
--│   │   ├── Calculator.tsx          # Main calculator UI logic
--│   │   ├── GraphPlotter.tsx        # Real-time plotting of functions
--│   │   ├── HistoryView\.tsx         # History tab
--│   │   └── ui/                     # Tailored UI components
--│   ├── lib/
--│   │   └── calculatorEngine.ts     # Core math logic: parsing, evaluation, AI logic
--│   ├── hooks/                      # Custom hooks
--│   ├── pages/                      # Tabbed layout & views
--│   └── utils/                      # Optional: helpers
--├── public/
--├── package.json
--├── tsconfig.json
--├── vite.config.ts
--└── tailwind.config.ts
+├── src/
+│   ├── components/
+│   │   ├── Calculator.tsx          # Main calculator UI logic
+│   │   ├── GraphPlotter.tsx        # Real-time plotting of functions
+│   │   ├── HistoryView\.tsx         # History tab
+│   │   └── ui/                     # Tailored UI components
+│   ├── lib/
+│   │   └── calculatorEngine.ts     # Core math logic: parsing, evaluation, AI logic
+│   ├── hooks/                      # Custom hooks
+│   ├── pages/                      # Tabbed layout & views
+│   └── utils/                      # Optional: helpers
+├── public/
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+└── tailwind.config.ts
 
 ````
 
