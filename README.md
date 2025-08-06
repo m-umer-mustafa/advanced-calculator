@@ -206,12 +206,13 @@ Graph rendered in the "Graph" tab
 
 ## 📞 Support
 
-If you encounter issues or have feature requests, open a GitHub issue or contact the dev team at `support@neuralcalc.app`.
+If you encounter issues or have feature requests, open a GitHub issue or contact the dev team at `muhammadomermustafa@gmail.com`.
 
 ---
 
 **Last Updated**: August 2025
 **Version**: 1.1.0
 **Status**: Actively Developed 🚧
+
 
 
